@@ -1,2 +1,4 @@
-nombre = "David"
-print(F"hola {nombre}")
+def saludo(nombre):
+    print(F"hola {nombre}")
+
+saludo("David")    
